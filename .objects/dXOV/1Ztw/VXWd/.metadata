@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Mobile- Buy Products Online at Best Pr",
+  "Type": "Screen",
+  "Id": "VXWdwrpG706AfXQwqrHzMg",
+  "Reference": "Hwx9gpIVGUqQCkv3rsiJAw/VXWdwrpG706AfXQwqrHzMg",
+  "ParentRef": "Hwx9gpIVGUqQCkv3rsiJAw/1ZtwBZnHQk2XEfJOvTgIBA",
+  "Created": "2026-06-05T13:18:41.6221912Z",
+  "Updated": "2026-06-05T13:18:41.6221912Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

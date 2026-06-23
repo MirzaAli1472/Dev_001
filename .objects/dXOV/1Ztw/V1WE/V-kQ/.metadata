@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Apply offers for maximu…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "V-kQpfkceUSxCfrmoa1K4g",
+  "Reference": "Hwx9gpIVGUqQCkv3rsiJAw/V-kQpfkceUSxCfrmoa1K4g",
+  "ParentRef": "Hwx9gpIVGUqQCkv3rsiJAw/V1WExGmEmEySxlODofNBZg",
+  "Created": "2026-06-04T14:35:00.4498732Z",
+  "Updated": "2026-06-04T14:35:00.4498732Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

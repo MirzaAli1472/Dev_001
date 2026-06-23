@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nokia 105 Classic Singl…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "eHnXdDFRBE6XhcuU99bDWQ",
+  "Reference": "Hwx9gpIVGUqQCkv3rsiJAw/eHnXdDFRBE6XhcuU99bDWQ",
+  "ParentRef": "Hwx9gpIVGUqQCkv3rsiJAw/V1WExGmEmEySxlODofNBZg",
+  "Created": "2026-06-04T14:33:35.3886063Z",
+  "Updated": "2026-06-04T14:33:35.3886063Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

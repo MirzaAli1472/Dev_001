@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Cart",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "BeyFfXw-30SeYXuQK_qc-Q",
+  "Reference": "Hwx9gpIVGUqQCkv3rsiJAw/BeyFfXw-30SeYXuQK_qc-Q",
+  "ParentRef": "Hwx9gpIVGUqQCkv3rsiJAw/V1WExGmEmEySxlODofNBZg",
+  "Created": "2026-06-04T14:43:10.9792226Z",
+  "Updated": "2026-06-04T14:43:10.9792226Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

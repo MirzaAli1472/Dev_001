@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Remove",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "vNIY-xtaOkS1sH6a-k16RA",
+  "Reference": "Hwx9gpIVGUqQCkv3rsiJAw/vNIY-xtaOkS1sH6a-k16RA",
+  "ParentRef": "Hwx9gpIVGUqQCkv3rsiJAw/V1WExGmEmEySxlODofNBZg",
+  "Created": "2026-06-04T16:41:32.612102Z",
+  "Updated": "2026-06-04T16:41:32.612102Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

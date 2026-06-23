@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ul8vo2iO70m-JLn9BSXAog" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com/iqoo-z11x-5g-titan-black-128-gb/p/itm8157cfb5645d4" DesignTimeRectangle="987, 543, 111, 34" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl parentid='slot-list-container' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' tag='DIV' type='' class='v1zwn21l v1zwn20 _1psv1zeb9 _1psv1ze0' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='₹22,790{0}' /&gt;&quot;, Price)]" Guid="b427308e-fbc6-413f-a5ea-6c93af624b7d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='IQOO Z11x 5G (128 GB Storage, 6 GB RAM) Online at Best Price On Flipkart.com' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="807, 621, 468, 52" FuzzySelectorArgument="&lt;webctrl type='' class='css-g5y9jx' parentid='slot-list-container' tag='DIV' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Buy at ₹21,650&amp;#xA;Apply offers for maximum savings' /&gt;" Guid="0aaaecd4-d768-40a5-acd1-3616785c1c5c" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a37d90f0f638c275c8cbd8c96fa0dfb6.jpg" xmlns="">0t_B3YWCcEka2_J88QdC_xQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="Price" />
+    </scg:List>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fLysEU1uAEmiiFyL1hh5Lw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com/iqoo-z11x-5g-titan-black-128-gb/p/itm8157cfb5645d4" DesignTimeRectangle="1195, 196, 24, 24" ElementType="Icon" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aaname='Cart' class='gNunGE' tag='IMG' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="442fc6a6-974e-4a75-b0e8-7d3f327d6c1b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='IQOO Z11x 5G (128 GB Storage, 6 GB RAM) Online at Best Price On Flipkart.com' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1235, 200, 28, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Cart' tag='SPAN' type='' class='v1zwn27' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Cart' /&gt;" Guid="a0ad6533-d5ec-4ae0-8734-b696f0597f89" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9f8ee89f6a140ef053ac65c54d1bff16.jpg" xmlns="">05nzj26VCQ02OmlQiH5c4Jw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9iBqapp37UKe9Kl524xKig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com/search" DesignTimeRectangle="545, 431, 470, 18" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aaname='{0}POCO C81 (Elite Black, 64 GB)' parentid='container' tag='DIV' /&gt;&quot;, MobileLink)]" Guid="424ce573-beef-48d7-afbe-52550a41e9d8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Mobile- Buy Products Online at Best Price in India - All Categories | Flipkart.com' /&gt;" SearchSteps="Selector, SemanticSelector" SemanticSelectorArgument="The name of the mobile phone product, POCO C81 (Elite Black, 64 GB)." Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="99ac7864a9fc5d811101260071bbb17f.jpg" xmlns="">0tIwiPaom0kqGEG6QsNKkqQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="MobileLink" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

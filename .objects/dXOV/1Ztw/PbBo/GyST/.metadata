@@ -1,0 +1,14 @@
+﻿{
+  "Name": "POCO C81 (Elite Black, …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "GySTCtmiBUiAtPiOQF5R9g",
+  "Reference": "Hwx9gpIVGUqQCkv3rsiJAw/GySTCtmiBUiAtPiOQF5R9g",
+  "ParentRef": "Hwx9gpIVGUqQCkv3rsiJAw/PbBoQtmuG0211dkzOy-3ZQ",
+  "Created": "2026-06-05T09:33:47.4788421Z",
+  "Updated": "2026-06-05T09:33:47.4788421Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

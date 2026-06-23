@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Online Shopping Site for Mobiles, Elec(1)",
+  "Type": "Screen",
+  "Id": "PbBoQtmuG0211dkzOy-3ZQ",
+  "Reference": "Hwx9gpIVGUqQCkv3rsiJAw/PbBoQtmuG0211dkzOy-3ZQ",
+  "ParentRef": "Hwx9gpIVGUqQCkv3rsiJAw/1ZtwBZnHQk2XEfJOvTgIBA",
+  "Created": "2026-06-04T17:26:49.7641602Z",
+  "Updated": "2026-06-04T17:26:49.7641602Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

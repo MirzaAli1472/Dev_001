@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FalSVCXi50qe0ENrc7Qh8Q" Reference="Hwx9gpIVGUqQCkv3rsiJAw/V-kQpfkceUSxCfrmoa1K4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com/iqoo-z11x-5g-titan-black-128-gb/p/itm8157cfb5645d4" DesignTimeRectangle="987, 551, 111, 34" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='slot-list-container' tag='DIV' type='' class='v1zwn21l v1zwn20 _1psv1zeb9 _1psv1ze0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="5d159960-c586-49bb-8ef0-51adaa5dac5f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='IQOO Z11x 5G (128 GB Storage, 6 GB RAM) Online at Best Price On Flipkart.com' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="867, 645, 257, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Apply offers for maximum savings' parentid='slot-list-container' tag='DIV' type='' class='css-146c3p1 r-dnmrzs r-1udh08x r-1udbk01 r-3s2u2q r-1iln25a' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Apply offers for maximum savings' /&gt;" Guid="57bde751-72d3-4cbe-9aff-b233daf7c532" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="27cf3a542054de0829caac606a6ab8c0.jpg" xmlns="">07C1pTWoCJkeiJEUY2afGbA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

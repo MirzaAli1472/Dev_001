@@ -1,0 +1,14 @@
+﻿{
+  "Name": "IQOO Z11x 5G (Titan Bla…(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "v-T2MRbv5Uqy-5YBgk4Eig",
+  "Reference": "Hwx9gpIVGUqQCkv3rsiJAw/v-T2MRbv5Uqy-5YBgk4Eig",
+  "ParentRef": "Hwx9gpIVGUqQCkv3rsiJAw/V1WExGmEmEySxlODofNBZg",
+  "Created": "2026-06-04T16:40:14.6693714Z",
+  "Updated": "2026-06-04T16:40:14.6693714Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

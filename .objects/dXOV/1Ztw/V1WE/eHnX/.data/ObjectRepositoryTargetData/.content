@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ihIIlLfRTUiVRCUuL85boQ" Reference="Hwx9gpIVGUqQCkv3rsiJAw/eHnXdDFRBE6XhcuU99bDWQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="flipkart.com/search" DesignTimeRectangle="545, 410, 470, 18" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='IQOO Z11x 5G (Titan Black, 128 GB)' parentid='container' tag='DIV' /&gt;" Guid="4d86523d-136f-49d8-9432-acf8457a4dee" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Mobile- Buy Products Online at Best Price in India - All Categories | Flipkart.com' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f4e4b67baf418341f38978af23a3de8e.jpg" xmlns="">0ERsvjAR-Bkmb-7U0Qx1HMA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

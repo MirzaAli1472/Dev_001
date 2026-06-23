@@ -1,0 +1,14 @@
+﻿{
+  "Name": "₹22,790",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "7XHRu3V_BU-BV5rkXO3_UA",
+  "Reference": "Hwx9gpIVGUqQCkv3rsiJAw/7XHRu3V_BU-BV5rkXO3_UA",
+  "ParentRef": "Hwx9gpIVGUqQCkv3rsiJAw/V1WExGmEmEySxlODofNBZg",
+  "Created": "2026-06-04T16:12:41.4532822Z",
+  "Updated": "2026-06-04T16:12:41.4532822Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

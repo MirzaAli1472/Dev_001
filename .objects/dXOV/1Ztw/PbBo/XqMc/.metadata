@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Buy at ₹22,205Apply off…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "XqMcHc3wrkKnAc4BcQEC5Q",
+  "Reference": "Hwx9gpIVGUqQCkv3rsiJAw/XqMcHc3wrkKnAc4BcQEC5Q",
+  "ParentRef": "Hwx9gpIVGUqQCkv3rsiJAw/PbBoQtmuG0211dkzOy-3ZQ",
+  "Created": "2026-06-05T09:59:21.8865028Z",
+  "Updated": "2026-06-05T09:59:21.8865028Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

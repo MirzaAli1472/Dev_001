@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="800a-maTZ06dO9BNxiAz0g" Reference="icjXp_DP80KEyNX-s3MPAw/YVQizebcXE2jF70CrnCo3g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 58, 587, 662" ContentHash="OfEStRCnGEiSH1I-SFHJCA" FilePath="C:\Windows\explorer.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKJSURBVFhH7ZcLUxJRFMeZnFKRwAcqZgo+0jQnMk2Xz9jAwgouLCzswiY+UDJNfGRqhibF+g043+Qe5+BQSTZjPtiZ6jdzZ2fvndn//5x77mNNpv/cAI/uhWefBKjurxmeUx+O7Iewur9mkIHhjyFW3V8zON3Lnnww0ABlYHBHNG4KON2H/VsGGpgu+rBvM2KkAR57N8LG1cDUNx4fr0eMNODH7jXJOAOTBZ51rUaNq4GJgp853sYMNHASwI4VAw28/BJAe0a+OwOc7i1xRS94iq+d1WPEi2MB25bilxrozImunvUIdK9HS9VjV2aq6AVaahOFALiPeVf1uDsvYMtC/JdV0JkVXY/eSUAF2pGNXd8AiY4fBcB9JODYoQAj+eCFTDz/PIO2+cSFDJC4Y0WCzqyM9kwM6P3n8T+GTIwezMDTvRAO7YbAmfvxwbHDGbTOKd8N2NKii0TtSzK2LspgSyduJl5heE90DWyHoH8rjK5cuFSJavQgiBZNLRsgMRJtWUigdT4ODRnt0rq5NhR5uajWJOxajUJzJuak21BTSmUk3jyvgHVOYRZNKd26eAWKvGM5Cu3L5yke2BbRnFLw4RsVKBONKbVUn7iltP+O82jjYE0r5flvImE1iQ+UJNy5eAUy0ZhUoUFJ4v14CutkrVQv1ki8AkVbF9XgnqSBSUzXVvzvh9O9QDfeSuNOefSc8sjpPE7rvvNnkUe6kFB79ZXHyYIfJ0/8SCckHVLjxwLSWeHOC4x2zNGD4NX/oEb2gzC0O4uDO7NsYDuMfZth5sxFsHdDwp73EnavRWkvQEc2Rscxa1+WWduSzFoX49i8kEBbOlFeIRZNYU0pFc1JFc0p9eoG/inOAMqKdSBDfHx/AAAAAElFTkSuQmCC" Reference="icjXp_DP80KEyNX-s3MPAw/YVQizebcXE2jF70CrnCo3g" Selector="&lt;wnd app='explorer.exe' cls='CabinetWClass' title='Downloads - File Explorer' /&gt;" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="570f9cddd6b4fc8f7d75a65153862675.jpg" xmlns="">0H3tK-fWz5k2KmQTL8Vp1tw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

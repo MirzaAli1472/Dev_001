@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Downloads - File Explorer",
+  "Type": "App",
+  "Id": "7UKhANYQe0qyee2mO1l8lg",
+  "Reference": "icjXp_DP80KEyNX-s3MPAw/7UKhANYQe0qyee2mO1l8lg",
+  "Created": "2026-06-22T09:13:07.2665175Z",
+  "Updated": "2026-06-22T09:13:07.2665175Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

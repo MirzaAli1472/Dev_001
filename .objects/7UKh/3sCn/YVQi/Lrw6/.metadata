@@ -1,0 +1,14 @@
+﻿{
+  "Name": "FAB_Payments_Test_Autom…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Lrw6ieET8kCh3fJ51xe8YA",
+  "Reference": "icjXp_DP80KEyNX-s3MPAw/Lrw6ieET8kCh3fJ51xe8YA",
+  "ParentRef": "icjXp_DP80KEyNX-s3MPAw/YVQizebcXE2jF70CrnCo3g",
+  "Created": "2026-06-22T09:13:19.147429Z",
+  "Updated": "2026-06-22T09:13:19.147429Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

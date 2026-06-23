@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zLGVkYNcmU-4EGvpOhlcHA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="481, 670, 598, 21" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd cls='Chrome_WidgetWin_1' title='Chat | Kuna Ganapathi | Microsoft Teams' /&gt;&lt;ctrl name='Chat | Kuna Ganapathi | Microsoft Teams' role='document' /&gt;&lt;ctrl name='Type a message' role='editable text' /&gt;&lt;ctrl idx='2' role='grouping' /&gt;" Guid="dfaa44f1-d42d-4029-9ea6-07aa394d0cf1" ScopeSelectorArgument="&lt;wnd app='ms-teams.exe' appid='MSTeams_8wekyb3d8bbwe!MSTeams' title='Chat | Kuna Ganapathi | Microsoft Teams' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ea34185fc0329aa328496323ba9d2198.jpg" xmlns="">0qHnVeu4Qm02PU5cF1776Fw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">DragAndDrop</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

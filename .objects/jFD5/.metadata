@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chat  Kuna Ganapathi  Microsoft Teams",
+  "Type": "App",
+  "Id": "jFD5dNkD9kKZDcFkpc3ykQ",
+  "Reference": "icjXp_DP80KEyNX-s3MPAw/jFD5dNkD9kKZDcFkpc3ykQ",
+  "Created": "2026-06-22T09:10:44.7100415Z",
+  "Updated": "2026-06-22T09:10:44.7100415Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

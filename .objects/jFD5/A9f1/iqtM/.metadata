@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chat  Kuna Ganapathi  Microsoft Teams",
+  "Type": "Screen",
+  "Id": "iqtMMjXX606QX-73JZXHnA",
+  "Reference": "icjXp_DP80KEyNX-s3MPAw/iqtMMjXX606QX-73JZXHnA",
+  "ParentRef": "icjXp_DP80KEyNX-s3MPAw/A9f1Nvg3kk-HjfIpeWtnhw",
+  "Created": "2026-06-22T09:10:45.0431334Z",
+  "Updated": "2026-06-22T09:10:45.0431334Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

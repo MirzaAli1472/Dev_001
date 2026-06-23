@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="20xk0XRC6ku6pZsMvf1Lbg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="204, 198, 236, 19" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd cls='ShellTabWindowClass' title='Downloads' /&gt;&lt;wnd aaname='Explorer Pane' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Shell Folder View' cls='SHELLDLL_DefView' title='ShellView' /&gt;&lt;wnd aaname='Items View' cls='DirectUIHWND' /&gt;&lt;ctrl name='Items View' role='list' /&gt;&lt;ctrl automationid='0' /&gt;&lt;ctrl automationid='0' /&gt;&lt;ctrl automationid='System.ItemNameDisplay' /&gt;" Guid="b1035488-2e8a-4b02-9862-9125bb19e300" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='CabinetWClass' title='Downloads - File Explorer' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9b7ff92f4d36ba5f81623d6637de9202.jpg" xmlns="">0bWDCX1ALWEiytra3WWLjPA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">DragAndDrop</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
